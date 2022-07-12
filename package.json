@@ -26,6 +26,7 @@
     "@screens/forgot-password": "file:./screens/forgot-password/",
     "@screens/notifications": "file:./screens/notifications/",
     "@screens/profile": "file:./screens/profile/",
+    "@screens/settings": "file:./screens/settings/",
     "@screens/support-faq": "file:./screens/support-faq/",
     "axios": "^0.21.1",
     "react": "17.0.1",
