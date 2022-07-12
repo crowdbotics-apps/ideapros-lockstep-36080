@@ -1005,7 +1005,7 @@
     "@react-navigation/stack" "^5.14.2"
     react-native-keyboard-aware-scroll-view "^0.9.3"
 
-"@modules/splash@file:./modules/splash/":
+"@modules/splash@file:./modules/splash":
   version "1.0.0"
 
 "@react-native-community/cli-debugger-ui@^5.0.1":
@@ -1225,6 +1225,9 @@
   version "1.0.0"
 
 "@screens/forgot-password@file:./screens/forgot-password":
+  version "1.0.0"
+
+"@screens/profile@file:./screens/profile/":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
