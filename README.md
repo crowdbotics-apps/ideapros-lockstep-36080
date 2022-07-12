@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-chat](modules/chat)
 - [privacy-policy]()
 - [terms-and-conditions]()
+- [screen-support-faq](screens/support-faq)
 
 # Getting started: Frontend
 
