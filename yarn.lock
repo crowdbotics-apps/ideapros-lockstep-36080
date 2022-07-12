@@ -1255,10 +1255,13 @@
 "@screens/forgot-password@file:./screens/forgot-password":
   version "1.0.0"
 
+"@screens/notifications@file:./screens/notifications/":
+  version "1.0.0"
+
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
-"@screens/support-faq@file:./screens/support-faq/":
+"@screens/support-faq@file:./screens/support-faq":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
